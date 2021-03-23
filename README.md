@@ -7,5 +7,5 @@ Arbitrary Text Injection is an attack where an application does not properly han
 Risk factors depend on the business type of the application. If the application business brand is well known and has major competitors, this issue can be abused by malicious competitors/disgruntled employees/unsatisfied customers to trigger mass distributions of false messages to unsuspecting customers.
 
 <h3>Refrence :</h3>
-https://owasp.org/www-community/attacks/Content_Spoofing
+https://owasp.org/www-community/attacks/Content_Spoofing <br />
 https://hackerone.com/reports/327671
